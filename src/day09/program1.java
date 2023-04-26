@@ -1,5 +1,5 @@
 package day09;
-import java.util.jar.*; 
+import java.util.Scanner;
 public class program1 {
 
 	public static void main(String[] args) {
