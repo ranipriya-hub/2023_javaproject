@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class program1 {
 
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner Scan = new Scanner(System.in);
 		System.out.println("enter the mobile brand");
 		String brand=Scan.next();
